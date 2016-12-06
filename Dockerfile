@@ -1,5 +1,5 @@
 FROM centos:7
-MAINTAINER jakub.jarosz@postpro.net
+MAINTAINER jjarosz@axway.com
 
 COPY get-pip.py get-pip.py
 COPY requirements.txt requirements.txt

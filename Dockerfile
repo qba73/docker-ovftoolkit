@@ -1,6 +1,8 @@
+# Version: 0.1.0
 FROM centos:7
-MAINTAINER jjarosz@axway.com
-
+MAINTAINER Jakub Jarosz "jjarosz@axway.com"
+LABEL version="0.1.0"
+LABEL location="Dublin" type="Toolbox" role="OVF Tool"
 
 ADD [ \
   "get-pip.py", \

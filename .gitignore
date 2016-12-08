@@ -1,0 +1,7 @@
+venv3/
+__pycache__/
+*.pyc
+*.pyo
+*.tmp
+*.swp
+

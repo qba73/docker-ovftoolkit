@@ -2,7 +2,7 @@
 
 ## Build docker image locally
 ```bash
-$ docker build -t="qba73/ovftoolkit:0.1.0" .
+$ docker build -t="qba73/ovftoolkit:0.1" .
 ```
 ## Test manually
 
